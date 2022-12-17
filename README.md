@@ -23,7 +23,10 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezkmike&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Rezkmike" /> 
 
-<h3 align="left">Connect with me:</h3>
+![Snake animation](https://github.com/Rezkmike/Rezkmike/blob/output/github-contribution-grid-snake.svg)
+
+## Connect with me
+
 <p align="left">
 <a href="https://twitter.com/meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meow" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meow" height="30" width="40" /></a>

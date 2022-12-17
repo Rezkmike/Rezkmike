@@ -16,7 +16,7 @@
 <a href="https://twitter.com/meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meow" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meow" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="meow" height="30" width="40" /></a>
-<a href="https://medium.com/meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="meow" height="30" width="40" /></a>
+<a href="https://medium.com/@meow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="meow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

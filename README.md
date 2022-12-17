@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **meow@gmail.com**
-
 - ⚡ Fun fact **I love reading**
 
 <h3 align="left">Connect with me:</h3>
